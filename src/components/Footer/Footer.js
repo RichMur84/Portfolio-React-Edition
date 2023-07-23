@@ -6,7 +6,7 @@ import TwitterIcon from "@mui/icons-material/Twitter";
 import EmailIcon from "@mui/icons-material/Email";
 import "./Footer.css";
 
-// Function that renders the footer
+
 const Footer = () => {
   return (
     <div style={{ paddingTop: "30px", paddingBottom: "30px" }}>
@@ -26,7 +26,7 @@ const Footer = () => {
             sx={{ fontSize: 50 }}
             onClick={(event) =>
               (window.location.href =
-                "https://www.linkedin.com/in/ryan-messett/")
+                "https://www.linkedin.com/in/richmuri84/")
             }
           />
           <GitHubIcon
@@ -34,7 +34,7 @@ const Footer = () => {
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
-              (window.location.href = "https://github.com/rmessett15")
+              (window.location.href = "https://github.com/RichMur84")
             }
           />
           <TwitterIcon
@@ -42,7 +42,7 @@ const Footer = () => {
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
-              (window.location.href = "https://twitter.com/rmessett15")
+              (window.location.href = "")
             }
           />
           <EmailIcon
@@ -50,7 +50,7 @@ const Footer = () => {
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
-              (window.location.href = "mailto:rmessett15@gmail.com")
+              (window.location.href = "grizzlylbc1@gmail.com")
             }
           />
         </Grid>
@@ -59,5 +59,5 @@ const Footer = () => {
   );
 };
 
-
+// Export
 export default Footer;
