@@ -9,13 +9,15 @@ import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import { projects } from "../../../projects";
 
+
+
 export function Project({ project }) {
   return (
     <Grid item xs={4} style={{ display: "flex", justifyContent: "center" }}>
       <Card sx={{ maxWidth: 345 }} style={{ backgroundColor: "floralwhite" }}>
         <CardMedia
           component="img"
-          alt="displayed projects with associated links"
+          alt="displayed projects with image"
           height="140"
           image={project.imageLink}
         />
@@ -49,6 +51,7 @@ export function Project({ project }) {
     </Grid>
   );
 }
+
 
 export default function Work() {
   return (

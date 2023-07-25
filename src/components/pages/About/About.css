@@ -7,16 +7,19 @@
   #hero img {
     object-fit: contain;
     object-position: center;
-    max-width: 100%;
-    height: auto;
+    max-width: 90%;
+    height: 10%;
   }
   
   #about-me-title {
     display: flex;
     justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   #p-about {
     text-align: center;
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   

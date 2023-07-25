@@ -4,7 +4,7 @@ import Contact from "./pages/Contact/Contact";
 import Resume from "./pages/Resume/Resume";
 import Portfolio from "./pages/Portfolio/Portfolio";
 
-
+ 
 export default function PortfolioContainer({ currentPage, setCurrentPage }) {
   if (currentPage === "About") {
     return <About />;

@@ -12,10 +12,11 @@ export default function About() {
           component="img"
           className="color-img"
           style={{
-            height: "auto",
-            width: "50%",
+            height: "30%",
+            width: "20%",
             margin: "0 auto",
-            paddingTop: "20px",
+            paddingTop: "10px",
+            
           }}
           image={hero}
           alt="About Me"

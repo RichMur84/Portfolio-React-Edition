@@ -37,7 +37,7 @@ export default function Contact() {
           `Please enter a valid email address. This field is required.`
         );
       }
-      const pattern = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
+      const pattern = /^[\w-]+@([\w-]+\.)+[\w-]{2,4}$/;
       console.log(!pattern.test(value));
       if (!pattern.test(value)) {
         setErrorMessage(`Please enter a valid email`);
