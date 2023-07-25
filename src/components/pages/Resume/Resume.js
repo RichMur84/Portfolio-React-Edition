@@ -1,9 +1,9 @@
 import React from "react";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import PdfFile from "../../../images/comingsoon.gif";
+import PdfFile from "../../../images/Coming Soon.jpg";
 import "./Resume.css";
-import { Gif } from "@mui/icons-material";
+
 
 
 export default function Resume() {
@@ -11,7 +11,7 @@ export default function Resume() {
     <Box>
       <div>
         <a
-          href={Gif}
+          href={PdfFile}
           download="Coming Soon"
           target="_blank"
           style={{

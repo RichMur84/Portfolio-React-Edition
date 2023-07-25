@@ -1,10 +1,11 @@
+
 export const projects = [
   {
     projectTitle: "Are You Smarter Than",
     description:
       "On this Module I created a mini quiz using HTML, CSS and Javascript The theme is Hollywood trivia and I Hope you enjoy it",
     imageLink:
-      "<image src = >",
+      "https://user-images.githubusercontent.com/122934157/741ff416-7b7e-47a0-be09-b8d51ec8cf8c.png",
     liveLink: "https://richmur84.github.io/Are-You-Smarter-Than-/",
     gitHub: "https://github.com/RichMur84/Are-You-Smarter-Than-",
   },
