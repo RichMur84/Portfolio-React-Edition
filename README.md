@@ -98,7 +98,7 @@ Have additional questions? Click the links below to reach me through my GitHub a
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[Link to Github](https://github.com/https://github.com/RichMur84)
+[Link to Github](https://github.com/RichMur84)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
