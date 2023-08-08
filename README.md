@@ -35,8 +35,10 @@ portfolio application was developed and designed to showcase my web applications
 ## Live URL
 📼
 
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+[Link to Github Pages](https://richmur84.github.io/Portfolio-React-Edition/)
+
 
 
 ## Screenshots
