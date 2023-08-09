@@ -53,5 +53,14 @@ export const projects = [
       "https://github.com/RichMur84/Portfolio-React-Edition/assets/122934157/1026e7f4-71b2-4ac3-b877-31e59f014fde",
     liveLink: "https://richmur84.github.io/First-Module/",
     gitHub: "https://github.com/RichMur84/First-Module",
+    },
+    {
+      projectTitle: "Group Project 3",
+      description:
+        "This application will allow users to track their daily health goals: it will provide, meals insights and correlations between different aspects of the user's health and lifestyle",
+      imageLink:
+        "https://github.com/RichMur84/Portfolio-React-Edition/assets/122934157/2888c0c2-c595-45ac-a84f-50dfb78046f3",
+      liveLink: "https://hyprahealthy-a6122d6a4506.herokuapp.com/",
+      gitHub: "https://github.com/Gdel-J/HypraHealthy",
   },
 ];
